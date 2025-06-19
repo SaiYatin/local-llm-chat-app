@@ -1,0 +1,28 @@
+# Root
+.env
+*.pptx
+
+# Node - frontend & backend
+**/node_modules/
+**/build/
+**/.env
+**/dist/
+**/.next/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/.mypy_cache/
+**/.venv/
+**/venv/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Docker backup
+**/Dockerfile~
