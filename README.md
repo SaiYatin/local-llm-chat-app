@@ -25,7 +25,7 @@ A full-stack chatbot web application using a React frontend and FastAPI backend.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/local-llm-chat-app.git
+git clone https://github.com/SaiYatin/local-llm-chat-app.git
 cd local-llm-chat-app
 ```
 
